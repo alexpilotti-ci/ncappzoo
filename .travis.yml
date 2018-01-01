@@ -1,0 +1,2 @@
+language: python
+script: cd tensorflow/inception_v3 && make all
